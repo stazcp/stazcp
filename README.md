@@ -1,6 +1,6 @@
 <!-- <iframe src="https://giphy.com/embed/PTBVMsYIOB0SBP4MVe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe">via GIPHY</a></p> -->
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe" width="100"/>
+  <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" width="100"/>
 </div>
 
 ### Hi there 👋
