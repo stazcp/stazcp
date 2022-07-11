@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am an experienced 👨‍💻 software engineer specializing in Full-Stack development with a background in 🤖 System Engineering and 🕹️ DevOps.
+I am an experienced 👨‍💻 software engineer specializing in Frontend development with a background in Computer Science and AI 🤖.
 
-- 🔭 I’m currently working on Golang, Gin, React and GraphQL side projects
-- 🌱 Learning Golang and deployment processes for side projects (Containerized & Productionization)
-- 🤔 Planning to migrate side projects to [serverless architecture](https://serverless-stack.com/)
+- 🔭 I’m currently working with React WebApps and Chrome Extensions.
+- 🌱 Learning about AI integrations.
+- 🤔 I want to learn more about AI.
+- ⚡ Fun fact: I used to be a high-end bartender, Special-OPs Paratrooper and Sniper, now I climb mountains for fun.
 
 <br>
 <div align="center">
@@ -23,8 +24,8 @@ I am an experienced 👨‍💻 software engineer specializing in Full-Stack dev
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rithyhuot/)
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](rithybhuot@gmail.com)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/staz-christo/)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](staz.christo@gmail.com)
 
 <br>
 <br>
@@ -53,7 +54,7 @@ I am an experienced 👨‍💻 software engineer specializing in Full-Stack dev
 <img align="justify" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 <!--
-**RithyHuot/rithyhuot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stazcp/stazcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
