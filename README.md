@@ -3,11 +3,10 @@
 I am an experienced 👨‍💻 software engineer specializing in Frontend development with a background in Computer Science and AI 🤖.
 
 - 🔭 I’m currently leaning to work with financial data and refine my Frontend skills.
-- 🌱 Learning about AI integrations.
-- 🤔 I want to learn more about AI.
+- 🌱 Learning about AI applications.
+- 🤔 I want to learn more about AI potential and apps.
 - ⚡ Fun fact: I used to be a high-end bartender, 🫡Special-OPs Paratrooper and Sniper, now I climb mountains for fun.
 
-... I said AI at least 3 times 🫣
 
 <br>
 <div align="center">
