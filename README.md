@@ -7,22 +7,6 @@ I am an experienced 👨‍💻 software engineer specializing in Frontend devel
 - 🤔 Learn more about AI potential and apps.
 - ⚡ Fun fact: I used to be a high-end bartender, 🫡Special-OPs Paratrooper and Sniper, now I climb mountains for fun.
 
-
-<br>
-<div align="center">
-<!--   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithyhuot&show_icons=true&theme=github_dark&count_private=true" alt="rithyhuot" />
-  </p> -->
-  <br>
-<!--   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithyhuot&layout=compact&theme=github_dark" alt="rithyhuot"/>
-  </p> -->
-  <br>
-
-![](https://github.com/rithyhuot/rithyhuot/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/staz-christo/)
