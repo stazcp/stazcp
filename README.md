@@ -36,5 +36,13 @@ I am an experienced 👨‍💻 software engineer specializing in Frontend devel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stazcp&layout=compact&theme=radical)
 
+<details>
+  <summary>Click to expand! Inside is my Curated work Playlist called "Cocktail Hour" for some vibes.</summary>
+  
+ <a href="https://www.youtube.com/playlist?list=PLCZ4A1iAFFtN9pby_Oi_rrSq_1Yw_ccMx">
+    <img src="https://i.imgur.com/Ou6pCGr.png" width="100" height="100" alt="Playlist">
+</a>
 
+  
+</details>
 
