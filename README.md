@@ -2,13 +2,11 @@
 
 I am an experienced 👨‍💻 software engineer specializing in Frontend development with a background in Computer Science and AI 🤖.
 
-- 🔭 Currently working with financial data and refining high-level/large-scale Architecture understanding and skills.
-- 🌱 Using Tech for environmental solutions (waste management, carbon emissions, sustainability, renewable-energy)
-- 🤔 Learn more about AI potential and apps.
-- ⚡ Fun fact: I used to be a high-end bartender, 🫡Special-OPs Paratrooper and Sniper, now I climb mountains for fun.
-
-
-![stazcp's GitHub stats](https://github-readme-stats.vercel.app/api?username=stazcp&show_icons=true&theme=radical&count_private=true)
+ - 👨🏽‍💻 Currently working in FinTech.
+ - 🔭 Experimenting with AI assistants.
+ - 🌱 Using Tech for environmental solutions (waste management, carbon emissions, sustainability, renewable-energy)
+ - 🤔 Learn more about AI potential and apps.
+ - ⚡ Fun fact: I used to be a high-end bartender, 🫡Special-OPs Paratrooper and Sniper, now I climb mountains for fun.
 
 
 ## Tools 🛠️
@@ -31,5 +29,12 @@ I am an experienced 👨‍💻 software engineer specializing in Frontend devel
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/staz-christo/)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](staz.christo@gmail.com)
+
+<br><br>
+
+## Badges
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stazcp&layout=compact&theme=radical)
+
 
 
