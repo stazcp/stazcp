@@ -4,6 +4,7 @@ I am an experienced 👨‍💻 software engineer specializing in Frontend devel
 
  - 👨🏽‍💻 Currently working in FinTech.
  - 🔭 Experimenting with AI assistants.
+ - 🪙 Decentralization and crypto enthusiast.
  - 🌱 Using Tech for environmental solutions (waste management, carbon emissions, sustainability, renewable-energy)
  - 🤔 Learn more about AI potential and apps.
  - ⚡ Fun fact: I used to be a high-end bartender, 🫡Special-OPs Paratrooper and Sniper, now I climb mountains for fun.
