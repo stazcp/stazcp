@@ -9,6 +9,8 @@ I am an experienced 👨‍💻 software engineer specializing in Frontend devel
  - 🤔 Learn more about AI potential and apps.
  - ⚡ Fun fact: I used to be a high-end bartender, 🫡Special-OPs Paratrooper and Sniper, now I climb mountains for fun.
 
+ more about me: https://linktr.ee/stazchristo
+
 
 ## Tools 🛠️
 
