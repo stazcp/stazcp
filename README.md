@@ -1,51 +1,62 @@
-### Hi there 👋
+### Hi, I'm Staz 👋
 
-I am an experienced 👨‍💻 software engineer specializing in Frontend development with a background in Computer Science and AI 🤖.
+Senior software engineer building **AI developer tools and agent infrastructure**: product interfaces in React and TypeScript, down to the Go services and sandboxes they run on.
 
- - 👨🏽‍💻 Currently working in FinTech.
- - 🔭 Experimenting with AI assistants.
- - 🪙 Decentralization and crypto enthusiast.
- - 🌱 Using Tech for environmental solutions (waste management, carbon emissions, sustainability, renewable-energy)
- - 🤔 Learn more about AI potential and apps.
- - ⚡ Fun fact: I used to be a high-end bartender, 🫡Special-OPs Paratrooper and Sniper, now I climb mountains for fun.
+- 🤖 Working in AI: AI infrastructure, agents, and context layers for agents
+- 🧪 Experimenting well beyond assistants: multi-agent workflows, agent tooling, sandboxed execution
+- ⚡ Into hard migrations, concurrency bugs and performance work I can measure
+- 🚀 Shipping ML-powered products since 2021
+- 🧗 Fun fact: former high-end bartender and Special Forces paratrooper/sniper; now I climb mountains for fun
 
- more about me: https://linktr.ee/stazchristo
+More about me: [staz.ai](https://staz.ai)
 
+## Things I've built
 
-## Tools 🛠️
+All my projects are at **[staz.ai](https://staz.ai)**. The public ones are pinned below.
 
-<div>
-<img align="justify" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="justify" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="justify" alt="redux" src="https://img.shields.io/badge/webpack%20-%2320232a.svg?&style=for-the-badge&logo=webpack&logoColor=%2361DAFB" />
-<img align="justify" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="justify" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="justify" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="justify" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img align="justify" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="justify" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="justify" alt="google-cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img align="justify" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</div>
+## Tools
 
-## Connect with me
+**AI coding agents**
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/staz-christo/)
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](staz.christo@gmail.com)
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" />
+<img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img alt="MCP" src="https://img.shields.io/badge/MCP-1F1F1F?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
 
-<br><br>
+**Languages**
 
-## Badges
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stazcp&layout=compact&theme=radical)
+**Frontend**
+
+<img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
+**Backend & infra**
+
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="GORM" src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" />
+
+## Connect
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />](https://www.linkedin.com/in/staz-christo/)
+[<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:staz.christo@gmail.com)
 
 <details>
-  <summary>Click to expand! Inside is my Curated work Playlist called "Cocktail Hour" for some vibes.</summary>
-  
- <a href="https://www.youtube.com/playlist?list=PLCZ4A1iAFFtN9pby_Oi_rrSq_1Yw_ccMx">
-    <img src="https://i.imgur.com/Ou6pCGr.png" width="100" height="100" alt="Playlist">
-</a>
-
-  
+  <summary>🍸 My work playlist, "Cocktail Hour"</summary>
+  <a href="https://www.youtube.com/playlist?list=PLCZ4A1iAFFtN9pby_Oi_rrSq_1Yw_ccMx">
+    <img src="https://i.imgur.com/Ou6pCGr.png" width="100" height="100" alt="Cocktail Hour playlist">
+  </a>
 </details>
-
