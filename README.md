@@ -1,5 +1,9 @@
 ### Hi, I'm Staz 👋
 
+<p align="center">
+  <img alt="AI infrastructure · Agents · Context layers · React + TypeScript + Go" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D97757&center=true&vCenter=true&width=640&lines=AI+infrastructure+%26+agents;Context+layers+for+coding+agents;React+%2B+TypeScript+%2B+Go;Ex-paratrooper%2C+now+shipping+agents" />
+</p>
+
 Senior software engineer building **AI developer tools and agent infrastructure**: product interfaces in React and TypeScript, down to the Go services and sandboxes they run on.
 
 - 🤖 Working in AI: AI infrastructure, agents, and context layers for agents
@@ -26,6 +30,13 @@ All my projects are at **[staz.ai](https://staz.ai)**. The public ones are pinne
 ## Connect
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />](https://www.linkedin.com/in/staz-christo/) [<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:staz.christo@gmail.com)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stazcp/stazcp/output/github-snake-dark.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/stazcp/stazcp/output/github-snake.svg" />
+  </picture>
+</p>
 
 <details>
   <summary>🍸 My work playlist, "Cocktail Hour"</summary>
